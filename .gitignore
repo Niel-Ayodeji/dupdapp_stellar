@@ -24,12 +24,9 @@ yarn-debug.log*
 yarn-error.log*
 
 # Env
-.env
-.env.local
-.env.*
 !.env.example
 
 # OS
 .DS_Store
 .idea/
-.vscode/
+config.bat
